@@ -1,0 +1,43 @@
+theme = "codex"
+title = "Callum Savage"
+languageCode = "en-us"
+baseURL = "https://callumsavage.com.au"
+copyright = "© {year} Callum Savage"
+# disqusShortname = ""
+# googleAnalytics = ""
+
+[params]
+  # Follow the Hugo date/time format reference here:
+  # https://gohugo.io/functions/format/#gos-layout-string
+  dateFormat = "Jan 2 2006"
+
+  # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
+  twitter = "https://twitter.com/csmsavage"
+  github = "https://github.com/callum-savage"
+  stackoverflow = "https://stackoverflow.com/users/11993091/callum-savage"
+
+  # "Twitter", "GitHub", "Email", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
+  iconOrder = ["GitHub", "Stackoverflow", "Twitter"]
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+  # Set to false to disallow raw HTML in markdown files
+  [markup.goldmark.renderer]
+      unsafe = true
+
+# Controls the navigation
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About"
+  url = "/"
+
+[[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
