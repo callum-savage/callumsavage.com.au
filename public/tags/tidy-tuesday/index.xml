@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tidy-tuesday on Callum Savage</title>
+    <title>Tidy-Tuesday on Callum Savage</title>
     <link>/tags/tidy-tuesday/</link>
-    <description>Recent content in tidy-tuesday on Callum Savage</description>
+    <description>Recent content in Tidy-Tuesday on Callum Savage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Callum Savage</copyright>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/tidy-tuesday/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tidy Tuesday Test</title>
-      <link>/blog/2020-07-07-tidy-tuesday-test/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Tidy Tuesday - July 7 2020</title>
+      <link>/2020/07/tidy-tuesday-2020/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-07-07-tidy-tuesday-test/</guid>
-      <description> This is a test of tidy tuesday.
-This is a toc test badoop
-dedoop   </description>
+      <guid>/2020/07/tidy-tuesday-2020/</guid>
+      <description>Hello, it’s tidy tuesday.
+badoop doop doop</description>
     </item>
     
   </channel>

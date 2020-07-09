@@ -21,5 +21,15 @@
       <description>no  This is a new blog post</description>
     </item>
     
+    <item>
+      <title>Tidy Tuesday - July 7 2020</title>
+      <link>/2020/07/tidy-tuesday-2020/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/07/tidy-tuesday-2020/</guid>
+      <description>Hello, it’s tidy tuesday.
+badoop doop doop</description>
+    </item>
+    
   </channel>
 </rss>
