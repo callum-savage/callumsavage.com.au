@@ -1,0 +1,14 @@
+---
+title: New blog post
+author: ''
+date: '2020-07-09'
+slug: new-blog-post
+categories: []
+tags: []
+description: ''
+keywords: []
+math: no
+toc: no
+---
+
+This is a new blog post

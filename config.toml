@@ -41,3 +41,6 @@ copyright = "© {year} Callum Savage"
   url = "/blog"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    blog = "/:year/:month/:slug/"
