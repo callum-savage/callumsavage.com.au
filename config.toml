@@ -3,7 +3,7 @@ title = "Callum Savage"
 languageCode = "en-us"
 baseURL = "https://callumsavage.com.au"
 copyright = "© {year} Callum Savage"
-disqusShortname = "callumsavage"
+# disqusShortname = "callumsavage"
 # googleAnalytics = ""
 
 [params]
