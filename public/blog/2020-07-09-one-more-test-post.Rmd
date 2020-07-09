@@ -1,8 +1,8 @@
 ---
-title: Another test post againg
+title: One more test post
 author: ''
 date: '2020-07-09'
-slug: another-test-post-againg
+slug: one-more-test-post
 categories: []
 tags: []
 description: ''
@@ -11,4 +11,4 @@ math: no
 toc: no
 ---
 
-Hi Kris
+Hi Kris :)
